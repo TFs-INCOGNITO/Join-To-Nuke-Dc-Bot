@@ -2,7 +2,9 @@
 # Invite The Bot To Any Server And You Will See What Is Going To Happen Next.
 
 ⚫ You Have 2 Options
+
 🔴 Put Your Bot Token In .env File Named TOKEN
+
 🔴 Go To Line #16, Change NOOB = os.getenv("TOKEN") To NOOB = "Your Bot Token"
 
 🟠 Enable Every Intents For Your Bot
