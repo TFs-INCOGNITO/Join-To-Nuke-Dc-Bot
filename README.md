@@ -1,6 +1,12 @@
 ## Join-To-Nuke-Dc-Bot
 # Invite The Bot To Any Server And You Will See What Is Going To Happen Next.
 
+## 🔻 Things To Do
+
+# ```pip install -r requirements.txt```
+
+# ```python3 main.py```
+
 ⚫ You Have 2 Options
 
 🔴 Put Your Bot Token In .env File Named TOKEN
