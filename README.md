@@ -1,12 +1,6 @@
 ## Join-To-Nuke-Dc-Bot
 # Invite The Bot To Any Server And You Will See What Is Going To Happen Next.
 
-## 🔻 Things To Do
-
-# ```pip install -r requirements.txt```
-
-# ```python3 main.py```
-
 ⚫ You Have 2 Options
 
 🔴 Put Your Bot Token In .env File Named TOKEN
@@ -20,6 +14,12 @@
 🟢 I Don't Recommend Using [Replit.com](https://replit.com) As You Will Get 4xx Too Many Response Error Code
 
 🔵 You May Change The Strings In SPAM_CHANNEL And SPAM_MESSAGE To Anything You Want
+
+## 🔻 How To Run The Bot 🔻
+
+```pip install -r requirements.txt```
+
+```python3 main.py```
 
 # ⚪ Disclaimer
 
